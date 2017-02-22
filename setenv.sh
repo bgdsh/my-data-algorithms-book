@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #---------------------------------------------------
 # This is an example to set environment variables 
 # for compiling/running MapReduce and Spark programs
